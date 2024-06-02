@@ -1,0 +1,1 @@
+- [x] Add the embedded market study of the year 2023
